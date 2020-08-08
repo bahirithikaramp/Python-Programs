@@ -1,2 +1,2 @@
 # Python-Programs
-This is for all the python programs I have done so far
+I am creating this repo to commit all the programs I have coded using Python.  
